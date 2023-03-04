@@ -1,0 +1,6 @@
+# Folder Which ignore 
+.vscode
+
+# Files ignore
+input.txt
+output.txt
