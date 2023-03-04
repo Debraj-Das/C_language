@@ -1,7 +1,7 @@
 //Name-Debraj Das
 //Roll no-21CH30010
 //computing up
-to n-th terms and k-order of generalized Fibonacci sequence.
+// to n-th terms and k-order of generalized Fibonacci sequence.
 
 #include <stdio.h>
 
